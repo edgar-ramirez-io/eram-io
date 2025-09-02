@@ -19,14 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Edgar's Blog
-email: edgar.ram.rez@outlook.com
+email:
 description: >-
   A blog where I describe my experience and stuff I want to
   share with the dev community.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: "Edgar Ramirez"
 twitter_username:
 github_username: edgar-ramirez-io
+linkedin_username: edgar-ramirez-a257a039
 
 # Build settings
 theme: minima
