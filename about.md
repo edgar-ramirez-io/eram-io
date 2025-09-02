@@ -11,4 +11,17 @@ Combine/RxSwift and more third-party libraries, with additional experience in Py
 backend development. Leveraged AI-powered development tool, to rapidly prototype features, fix bugs, and accelerate iOS and
 backend development workflows.
 
-`TODO: Add work experience as collection of pages`
+# Technical Expertise & Skills
+
+{% for item in site.skills %}
+
+{{ item.content | markdownify }}
+{% endfor %}
+
+## Work Experience
+
+{% for company in site.work_experience %}
+
+{{ company.content | markdownify }}
+<br />
+{% endfor %}
