@@ -2,7 +2,7 @@
 title: "HERE Technologies"
 ---
 
-<img src="/assets/logos/here.png" width=200 alt="logo" />
+<img src="/assets/logos/here.png" alt="logo" />
 
 _Jan 2017 – May 2021_
 
