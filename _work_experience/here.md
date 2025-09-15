@@ -8,7 +8,7 @@ _Jan 2017 – May 2021_
 
 ## iOS Senior Software Engineer
 
-- Contributed to HERE WeGo for iOS which holds 3.7 stars in the App Store. [Download link][download]{:target="\_blank"}
+- Contributed to HERE WeGo for iOS which holds 3.7 stars in the App Store. [App Store link][download]{:target="\_blank"}
 - Contributed new features to their maps app that enables commuters to use turn-by-turn navigation and reports traffic and incidents in real-time.
 - Built reusable Swift components to fetch and decode HERE Traffic API data, overlaying real-time conditions on HERE Maps.
   Used GCD for async calls, Alamofire for caching, and optimized rendering for a responsive in-app driving experience.

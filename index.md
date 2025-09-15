@@ -7,7 +7,7 @@ Welcome to my very first blog. My name is Edgar Ramirez and I am a front-end sof
 
 Enjoy it!
 
-<img src="/assets/headshot.jpg" alt="headshot" />
+<p style="text-align: center"><img height="600" src="/assets/headshot.jpg"></p>
 
 > A big shout out to my very good friend [Xavier Martin][xavier-martin]{:target="\_blank"} for providing this nice picture taken in a cozy pub located at Lincoln Square here in Chicago
 

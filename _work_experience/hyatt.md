@@ -8,7 +8,7 @@ _Jan 2015 – Jan 2017_
 
 ### Software Engineer
 
-- Contributed to Ask Hyatt iOS app which holds 4.9 stars with over 212K ratings. [Download link][download]{:target="\_blank"}
+- Contributed to Ask Hyatt iOS app which holds 4.9 stars with over 212K ratings. [App Store link][download]{:target="\_blank"}
 - Developed features for the Ask Hyatt iOS app using Objective-C, leveraging core iOS frameworks and third-party libraries and
   automated release pipeline leverage with Jenkins, Fastlane for TestFlight and App Store releases.
 - Implemented Adobe Analytics instrumentation to capture app usage metrics and adopted TDD/BDD methodologies to ensure high code quality.
